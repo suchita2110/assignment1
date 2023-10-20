@@ -1,0 +1,2 @@
+.box{width:100px;height:100px;background-color: #8003f4;border:4px solid #4b1181; display: grid;
+    place-items: center;justify-content: center;color: white;text-align: center;}
