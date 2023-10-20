@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./box-comp.component.css']
 })
 export class BoxCompComponent {
-
+ handleBoxEvent(){
+  alert("Box Clicked!")
+ }
 }

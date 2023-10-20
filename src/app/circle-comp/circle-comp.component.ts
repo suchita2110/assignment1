@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./circle-comp.component.css']
 })
 export class CircleCompComponent {
-
+handleCircleEvent(){
+  alert("Circle Cliked!")
+}
 }
